@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|d:\\programmer\\custom.hydrogenconfigurationsystem\\controls\\uc_paramshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|solutionrelative:controls\\uc_paramshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|d:\\programmer\\custom.hydrogenconfigurationsystem\\controls\\uc_devicestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|solutionrelative:controls\\uc_devicestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|d:\\programmer\\custom.hydrogenconfigurationsystem\\controls\\uc_alarmtip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|solutionrelative:controls\\uc_alarmtip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|d:\\programmer\\custom.hydrogenconfigurationsystem\\forms\\frmrecipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|solutionrelative:forms\\frmrecipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|d:\\programmer\\custom.hydrogenconfigurationsystem\\forms\\frmreportchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|solutionrelative:forms\\frmreportchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|d:\\programmer\\custom.hydrogenconfigurationsystem\\forms\\frmdevicecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|solutionrelative:forms\\frmdevicecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|d:\\programmer\\custom.hydrogenconfigurationsystem\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|d:\\programmer\\custom.hydrogenconfigurationsystem\\forms\\frmrealtimemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|solutionrelative:forms\\frmrealtimemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|d:\\programmer\\custom.hydrogenconfigurationsystem\\forms\\frmlogquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|solutionrelative:forms\\frmlogquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|d:\\programmer\\custom.hydrogenconfigurationsystem\\forms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|solutionrelative:forms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|d:\\programmer\\custom.hydrogenconfigurationsystem\\forms\\frmdevicecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|solutionrelative:forms\\frmdevicecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|d:\\programmer\\custom.hydrogenconfigurationsystem\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|solutionrelative:forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|d:\\programmer\\custom.hydrogenconfigurationsystem\\forms\\frmsystemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|solutionrelative:forms\\frmsystemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|d:\\programmer\\custom.hydrogenconfigurationsystem\\forms\\frmusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B305AF3-D9D1-4838-BC1B-FB1AE29CA1AA}|Custom.HydrogenConfigurationSystem.csproj|solutionrelative:forms\\frmusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_ParamShow.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Controls\\UC_ParamShow.cs",
+              "RelativeDocumentMoniker": "Controls\\UC_ParamShow.cs",
+              "ToolTip": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Controls\\UC_ParamShow.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Controls\\UC_ParamShow.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T09:47:26.212Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_DeviceState.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Controls\\UC_DeviceState.cs",
+              "RelativeDocumentMoniker": "Controls\\UC_DeviceState.cs",
+              "ToolTip": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Controls\\UC_DeviceState.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Controls\\UC_DeviceState.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T09:47:25.093Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_AlarmTip.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Controls\\UC_AlarmTip.cs",
+              "RelativeDocumentMoniker": "Controls\\UC_AlarmTip.cs",
+              "ToolTip": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Controls\\UC_AlarmTip.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Controls\\UC_AlarmTip.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T09:47:23.947Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmRecipeManager.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmRecipeManager.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmRecipeManager.cs",
+              "ToolTip": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmRecipeManager.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Forms\\FrmRecipeManager.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T09:02:50.522Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmReportChart.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmReportChart.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmReportChart.cs",
+              "ToolTip": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmReportChart.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Forms\\FrmReportChart.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T09:02:49.69Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmMain.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmMain.cs",
+              "ToolTip": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmMain.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Forms\\FrmMain.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T05:34:52.743Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmLogQuery.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmLogQuery.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLogQuery.cs",
+              "ToolTip": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmLogQuery.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Forms\\FrmLogQuery.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T05:34:51.946Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDeviceControl.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmDeviceControl.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDeviceControl.cs",
+              "ToolTip": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmDeviceControl.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Forms\\FrmDeviceControl.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T05:21:40.827Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmRealTimeMonitor.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmRealTimeMonitor.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmRealTimeMonitor.cs",
+              "ToolTip": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmRealTimeMonitor.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Forms\\FrmRealTimeMonitor.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T05:34:53.515Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmDeviceControl.cs",
+              "DocumentMoniker": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmDeviceControl.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDeviceControl.cs",
+              "ToolTip": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmDeviceControl.cs",
+              "RelativeToolTip": "Forms\\FrmDeviceControl.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAmwKsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T07:07:48.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmLogin.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLogin.cs",
+              "ToolTip": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmLogin.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Forms\\FrmLogin.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T05:34:51.059Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmDashboard.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDashboard.cs",
+              "ToolTip": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmDashboard.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Forms\\FrmDashboard.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T05:21:41.674Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmSystemConfig.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmSystemConfig.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmSystemConfig.cs",
+              "ToolTip": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmSystemConfig.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Forms\\FrmSystemConfig.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T05:21:39.423Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmUserManager.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmUserManager.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmUserManager.cs",
+              "ToolTip": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Forms\\FrmUserManager.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Forms\\FrmUserManager.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T00:22:55.465Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

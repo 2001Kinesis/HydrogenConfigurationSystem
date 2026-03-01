@@ -1,0 +1,8 @@
+{
+  "SoftwareVersion": "V1.0.0",
+  "TrialDays": 30,
+  "LogCleanDays": 7,
+  "LogPath": "Logs",
+  "DefaultFont": "Microsoft YaHei",
+  "DefaultFontSize": 12
+}

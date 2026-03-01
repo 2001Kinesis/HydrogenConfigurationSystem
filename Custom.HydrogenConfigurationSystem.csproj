@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Icons\*.svg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Configs\" />
+    <Folder Include="Data\DB\" />
+    <Folder Include="Data\Entities\" />
+    <Folder Include="PlcComm\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Globals\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Icons\*.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HslCommunication" Version="12.6.3" />
+    <PackageReference Include="LiveChartsCore.SkiaSharpView.WinForms" Version="2.0.0-rc6.1" />
+    <PackageReference Include="MiniExcel" Version="1.36.0" />
+    <PackageReference Include="NLog.Extensions.Logging" Version="5.4.0" />
+    <PackageReference Include="ScottPlot" Version="5.0.47" />
+    <PackageReference Include="ScottPlot.WinForms" Version="5.0.47" />
+    <PackageReference Include="SqlSugarCore" Version="5.1.4.200" />
+    <PackageReference Include="SunnyUI" Version="3.9.2" />
+  </ItemGroup>
+
+</Project>

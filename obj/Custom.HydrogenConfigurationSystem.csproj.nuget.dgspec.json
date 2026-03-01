@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Custom.HydrogenConfigurationSystem.csproj": {}
+  },
+  "projects": {
+    "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Custom.HydrogenConfigurationSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Custom.HydrogenConfigurationSystem.csproj",
+        "projectName": "Custom.HydrogenConfigurationSystem",
+        "projectPath": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\Custom.HydrogenConfigurationSystem.csproj",
+        "packagesPath": "D:\\Nuget\\packages",
+        "outputPath": "D:\\programmer\\Custom.HydrogenConfigurationSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\DevExpress 21.2\\Components\\Offline Packages",
+          "D:\\DevExpress 23.1\\Components\\Offline Packages",
+          "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kinesis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "D:\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "HslCommunication": {
+              "target": "Package",
+              "version": "[12.6.3, )"
+            },
+            "LiveChartsCore.SkiaSharpView.WinForms": {
+              "target": "Package",
+              "version": "[2.0.0-rc6.1, )"
+            },
+            "MiniExcel": {
+              "target": "Package",
+              "version": "[1.36.0, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.4.0, )"
+            },
+            "ScottPlot": {
+              "target": "Package",
+              "version": "[5.0.47, )"
+            },
+            "ScottPlot.WinForms": {
+              "target": "Package",
+              "version": "[5.0.47, )"
+            },
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.1.4.200, )"
+            },
+            "SunnyUI": {
+              "target": "Package",
+              "version": "[3.9.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
