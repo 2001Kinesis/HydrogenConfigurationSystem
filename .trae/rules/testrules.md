@@ -1,1 +1,0 @@
-这是.NET8Winform项目。当生成界面的时候，调用SunnyUI框架下的组件，并且要写在xxx.Designer.cs文件中，不要写在xxx.cs文件里面，这样方便可视化。
