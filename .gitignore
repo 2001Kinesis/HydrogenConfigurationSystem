@@ -1,0 +1,30 @@
+## 编译输出
+bin/
+obj/
+Debug/
+Release/
+*.dll
+*.exe
+*.pdb
+
+## Visual Studio 文件
+.vs/
+*.user
+*.suo
+*.userosscache
+
+## 临时文件
+*.tmp
+*.log
+*.cache
+*.bak
+
+## NuGet 包
+packages/
+*.nupkg
+
+## 操作系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+图灵氢能组态上位机需求文档.md
